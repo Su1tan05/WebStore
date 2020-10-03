@@ -1,0 +1,23 @@
+﻿.buttonmargin {
+    margin-top: 650px;
+    text-align: center;
+}
+a.button2 {
+    display: inline-block;
+    color: cadetblue;
+    font-weight: 700;
+    text-decoration: none;
+    user-select: none;
+    padding: .5em 2em;
+    outline: none;
+    transition: 0.2s;
+    background-color: white;
+}
+a.button2:hover {
+    background-color: whitesmoke;
+}
+    /* при наведении курсора мышки */
+a.button2:visited {
+    background-color: lightblue;
+}
+/* при нажатии */
